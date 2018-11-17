@@ -2,7 +2,7 @@
 
 Propel3 is an open-source Object-Relational Mapping (ORM) for modern PHP 7.1+.
 
-# It is also written and maintained by people better and smarter than I am-- there wasn't an existing Propel3 on packagist.
+# It is also written and maintained by people better and smarter than I am-- there wasn't an existing Propel3 on packagist. There is now...
 
 So, this github repo and packagist entry exists solely for me to put into my PHP package.json, you are free to use it. But, know that once a valid propelorm/propel3 packagist package becomes available that I will begin using that and not maintaining this one.
 
